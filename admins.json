@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "69cdfba215c227c2c35eefb0",
+    "name": "Master Admin",
+    "email": "admin@system.local",
+    "password": "$2a$10$thAWQxq6iml9V4NC8zaYF.AmLh.B6deYv/L6LuXBGZZQeUh91JZja",
+    "phone": "1234567890",
+    "role": "admin",
+    "createdAt": "2026-04-02T05:16:18.065Z",
+    "__v": 0
+  }
+]
